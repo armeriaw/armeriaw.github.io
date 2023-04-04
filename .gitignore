@@ -1,0 +1,7 @@
+_site/
+*.swp
+.DS_Store
+.idea
+Gemfile.lock
+*.pdf
+unpublished/*

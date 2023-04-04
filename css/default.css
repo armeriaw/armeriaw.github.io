@@ -1,0 +1,273 @@
+﻿/* modified from http://www.yinwang.org/main.css */
+body {
+  font-family: "CMU Serif", "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", 
+  "宋体", "等线", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  background-color: white;
+  font-size: 120%;
+}
+
+div.main {
+  margin: auto;
+  padding: 2% 5% 5% 5%;
+  width: 800px;
+  line-height: 150%;
+  border: 0px solid LightGrey;
+}
+
+div.post_title {
+  font-family: "CMU Serif", "Arial", "等线", "黑体", "宋体";
+  color: #303030;
+  font-size: 1.8em;
+  font-weight: bold;
+  margin-top: 1.0em;
+  margin-bottom: 2.5em;
+}
+
+H1, H2, H3, H4 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, "等线", STKaiti, SimSun, serif; 
+  width: 98%;
+  line-height: 150%;
+  color: #666666;
+}
+
+H1 {
+  margin-bottom: 1.67em;
+  padding: 0.2em;
+  border-bottom: 2px LightGrey solid;
+}
+
+H2 {
+  margin-top: 1.75em;
+  margin-bottom: 1.2em;
+  padding: 0.2em;
+  border-bottom: 2px LightGrey solid;
+}
+
+H3 {
+  margin-top: 1.5em;
+  margin-bottom: 0.75em;
+  border-bottom: 1px LightGrey dotted;
+  width: 80%
+  /* border-bottom: 1px LightGrey solid; */
+}
+
+H4 {
+  margin-top: 1.2em;
+  margin-bottom: 0.2em;
+  /* border-bottom: 1px LightGrey solid; */
+}
+
+p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+blockquote {
+  /* margin: 0 0 0 0.25em;
+  margin-top: 1.5em;
+  padding: 0 0 0 0.5em; */
+  margin: 1.5rem .2rem;
+	padding: .3rem .5rem;
+  /* border-left: 0.25em lightgrey solid; */
+  color: #6f6f6f;
+	border-left: .4rem solid gray;
+}
+
+blockquote p {
+	padding: .2rem 1.5rem;
+}
+
+ 
+pre {
+  font-family: Inconsolata, Consolas, "DEJA VU SANS MONO", "DROID SANS MONO", Proggy, monospace;
+  border: solid 1px #ddd;
+  border-radius: 3px;
+  background-color: #f8f8ff;
+  padding: 6px 10px;
+  font-size: 1em;
+  line-height: 100%;
+  overflow: auto;
+}
+
+pre.highlight{
+  /* margin-bottom: 1em; */
+  margin-top: 0.6em;
+  margin-bottom: 0.6em;
+}
+
+code {
+  font-family: "Menlo Regular", Inconsolata, Consolas, "DEJA VU SANS MONO", "DROID SANS MONO", Proggy, monospace;
+  font-size: 0.75em;
+  border: solid 1px #ddd;
+  border-radius: 3px;
+  background-color: #f8f8ff;
+  margin: 0 2px;
+  padding: 0px 5px;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+pre code {
+  border: none;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  word-wrap: normal;
+}
+
+a {
+  text-decoration: none;
+  padding: 1px;
+  color: #204A87;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+div.tag_cloud a {
+  word-wrap: normal;
+  word-break: normal;
+}
+
+div.nav a {
+  text-decoration: none;
+  color: #555;
+}
+
+div.nav a:hover {
+  background-color: LightGrey;
+  color: #ffffff;
+}
+
+div.nav {
+  /* border-top: 1px solid #d4d4d4;
+  border-left: 1px solid #d4d4d4;
+  border-right: 1px solid #d4d4d4; */
+  font-family: "CMU Serif", "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", 
+  "等线", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  border-bottom: 1px solid #d4d4d4;
+  margin: auto;
+  left: 0; right: 0;
+  position: relative;
+  padding: 0 5% 0 5%;
+  width: 800px;
+  height: 1.4em;
+  line-height: 120%;
+  font-size: 0.9em;
+}
+
+div.nav_rss {
+  width: 20%;
+  text-align: right;
+  float: right;
+}
+
+div.nav_nav {
+  width: 80%;
+  float: left;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  max-width: 100%;
+}
+
+img.emoji {
+  display: inline;
+  /* margin-bottom: 0; */
+}
+
+hr {
+  border: 0;
+  height: 2px;
+  
+  background-color: LightGrey;
+  margin: 0.75em 0;
+}
+
+strong {
+  color: #202020
+}
+
+div.overview {
+  margin: 1.75em 1.25em 1.75em 1.25em;
+}
+
+div.detail {
+  margin-left: 28%;
+}
+
+div.date { 
+  padding-top: 1px;
+  float: left; 
+  width: 25%; 
+  color: #555;
+  text-align: right; 
+  font-style: italic; 
+  font-size: 0.75em;
+}
+
+div.paginator {
+  margin-left: 20%;
+  float: center;
+  width: 60%;
+  color: #555;
+  text-align: center;
+  font-size: 0.75em;
+}
+
+.prev_next {
+  display: block;
+  padding: 0;
+  padding-top: 0.6em;
+}
+
+.prev_next li {
+  list-style-type: none;
+  padding: 0 0 0.2em;
+}
+
+.prev_next li span {
+  padding: 0 0.5em 0 0.5em;
+  background-color: lightslategrey;
+  color: #fff;
+  margin-right: 0.5em;
+}
+
+div.post_footer {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: right;
+  font-size: 0.9em;
+  font-style: italic;
+  border-top: LightGrey 1px solid;
+}
+
+div.post_footer a {
+  border: LightGrey 1px dashed;
+}
+
+table {
+  border-collapse: collapse;
+  margin: auto;
+}
+
+th {
+  padding: 0.375em 0.8125em;
+  border: 1px solid #ddd;
+  font-weight: bold;
+}
+
+td {
+  padding: 0.375em 0.8125em;
+  border: 1px solid #ddd;
+}
+
+tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
