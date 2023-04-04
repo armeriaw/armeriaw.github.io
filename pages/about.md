@@ -10,7 +10,7 @@ permalink: /about/
 
 Shanghai, China \| SEIEE
 
-**Homepage:** [armeriaw.github.io](http://www.armeriaw.github.io)
+**Homepage:** [armeriaw.github.io](https://armeriaw.github.io/)
 
 **Contact:** armeriaw@outlook.com
 
