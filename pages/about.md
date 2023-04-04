@@ -6,22 +6,22 @@ keywords: Armeria Wang, 王翰坤
 permalink: /about/
 ---
 
-**Undergraduate Student at [Harbin Institute of Technology](http://www.hit.edu.cn)**
+**Undergraduate Student at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn)**
 
-Harbin, China \| School of Computer Science and Technology
+Shanghai, China \| SEIEE
 
 **Homepage:** [armeriaw.github.io](http://www.armeriaw.github.io)
 
-**Contact:** armeriaw@qq.com
+**Contact:** armeriaw@outlook.com
 
-**Social:**  [github](http://github.com/armeriawang) \| [CNblogs](https://www.cnblogs.com/yearwhk/) \| [bilibili](https://space.bilibili.com/4812297)
+<!-- **Social:**  [github](http://github.com/armeriawang) \| [CNblogs](https://www.cnblogs.com/yearwhk/) \| [bilibili](https://space.bilibili.com/4812297) -->
 
-**Telegram:** [phlio](https://t.me/joinchat/JOzLghUKRn7yS7D1hX5GXg)
+<!-- **Telegram:** [phlio](https://t.me/joinchat/JOzLghUKRn7yS7D1hX5GXg) -->
     
-```c++
+<!-- ```c++
 #include <iostream>
 int main() {
 	std::cout << "Hello, friends!" << std::endl;
 	return 0;
 }
-```
+``` -->
