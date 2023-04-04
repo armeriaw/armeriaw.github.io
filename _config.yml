@@ -22,7 +22,7 @@ email: armeriaw@outlook.com
 markdown: kramdown
 kramdown:
     input: GFM
-paginate: 9
+paginate: 14
 permalink: /:year/:month/:day/:title/
 gems:
     - jekyll-paginate
