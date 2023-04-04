@@ -2,11 +2,11 @@
 layout: page
 title: Armeria Wang
 description: Armeria Wang的个人简介
-keywords: Armeria Wang, 王翰坤
+keywords: Armeria Wang
 permalink: /about/
 ---
 
-**Undergraduate Student at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn)**
+**I'm a Ph.D candidate at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn)**
 
 Shanghai, China \| SEIEE
 
