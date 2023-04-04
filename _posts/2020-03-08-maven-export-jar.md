@@ -47,7 +47,7 @@ typora-root-url: ..
 - V1.1版的流程可能出现运行`Px.jar`后无法自动终止的情况。这一版中，改进了`Terminal`类，修复了上述问题。
 - 增加了目录。
 - 其他格式和表述改进。
-- 本文最新版[在线阅读点我](http://armeria.wang/2020/03/08/maven-export-jar/)。
+- 本文最新版[在线阅读点我](http://armeriaw.github.io/2020/03/08/maven-export-jar/)。
 - **今后本文仅在线上更新，不再发布pdf版**。
 
 </div>

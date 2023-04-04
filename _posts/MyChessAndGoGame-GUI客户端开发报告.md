@@ -7,7 +7,7 @@
 
 [TOC]
 
-本文最新版在线阅读地址：[点我](http://armeria.wang/2020/03/23/java-swing-first-step-3/)
+本文最新版在线阅读地址：[点我](http://armeriaw.github.io/2020/03/23/java-swing-first-step-3/)
 
 ## 棋类游戏GUI
 

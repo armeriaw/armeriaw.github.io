@@ -7,7 +7,7 @@
 
 [TOC]
 
-本文最新版在线阅读地址：[点我](http://armeria.wang/2020/06/05/log4j-connect-mysql/)。
+本文最新版在线阅读地址：[点我](http://armeriaw.github.io/2020/06/05/log4j-connect-mysql/)。
 
 在软件构造Lab4中，为了实现日志过滤功能，我将log4j与MySQL数据库相连接，在本地数据库中存储日志信息。这样，就可以在MySQL中利用SQL查询语句轻松过滤日志了。
 

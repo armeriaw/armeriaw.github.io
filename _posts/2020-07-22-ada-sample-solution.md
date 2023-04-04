@@ -12,7 +12,7 @@ typora-root-url: ..
 
 # 算法样例试题个人解答
 
-By [ArmeriaWang@github](https://armeriawang.github.io); [Online Version](http://armeria.wang/2020/07/22/ada-sample-solution/)
+By [ArmeriaWang@github](https://armeriawang.github.io); [Online Version](http://armeriaw.github.io/2020/07/22/ada-sample-solution/)
 
 [TOC]
 

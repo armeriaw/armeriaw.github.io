@@ -195,7 +195,7 @@ int main()
 
 #### 做法
 
-计算几何题。题解[见此](http://armeria.wang/2020/10/25/gym-102770h/)。
+计算几何题。题解[见此](http://armeriaw.github.io/2020/10/25/gym-102770h/)。
 
 ### 【CCPC2020 秦皇岛】 Gym 102769H - Holy Sequence
 

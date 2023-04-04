@@ -7,7 +7,7 @@
 
 [TOC]
 
-本文最新版在线阅读地址：[上篇](http://armeria.wang/2020/05/03/java-cli-1-picocli-1/)，[下篇](http://armeria.wang/2020/05/10/java-cli-2-picocli-2/)。
+本文最新版在线阅读地址：[上篇](http://armeriaw.github.io/2020/05/03/java-cli-1-picocli-1/)，[下篇](http://armeriaw.github.io/2020/05/10/java-cli-2-picocli-2/)。
 
 在软件构造Lab3中，我尝试用[picocli](https://github.com/remkop/picocli)搭建了一个命令行交互客户端（*Command-Line Interface*，CLI）。不同于[Common CLI](http://commons.apache.org/proper/commons-cli/)，picocli的设计更为现代化，功能更为强大，[文档](https://picocli.info/)也十分丰富。
 

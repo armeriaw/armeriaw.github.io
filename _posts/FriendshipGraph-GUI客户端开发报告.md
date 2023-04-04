@@ -7,7 +7,7 @@
 
 [TOC]
 
-本文最新版在线阅读地址：[点我](http://armeria.wang/2020/03/15/java-swing-first-step-2/)
+本文最新版在线阅读地址：[点我](http://armeriaw.github.io/2020/03/15/java-swing-first-step-2/)
 
 ## 用Swing开发桌面应用
 

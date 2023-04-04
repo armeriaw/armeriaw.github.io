@@ -21,14 +21,14 @@ keywords: Markdown
 ### 超链接
 
 ```
-[主页](http://armeria.wang)
+[主页](http://armeriaw.github.io)
 
-<http://armeria.wang>
+<http://armeriaw.github.io>
 ```
 
-[主页](http://armeria.wang)  
+[主页](http://armeriaw.github.io)  
 
-<http://armeria.wang>
+<http://armeriaw.github.io>
 
 ### 列表
 
