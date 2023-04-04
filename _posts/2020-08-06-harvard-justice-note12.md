@@ -1,7 +1,7 @@
 ---
 layout: post
 title: harvard-justice-note12
-postTitle: 正义之辩——随录（十二）
+postTitle: 正义之辩——随录（十二）：康德道德观
 categories: [Justice, Philosophy, Open Class Notes]
 description: 哈佛大学《正义之辩》课堂随录（十二）
 keywords: Harvard, Justice, Philosophy, Political Philosophy, Open Class Notes

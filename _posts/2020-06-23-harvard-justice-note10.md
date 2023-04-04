@@ -1,7 +1,7 @@
 ---
 layout: post
 title: harvard-justice-note10
-postTitle: 正义之辩——随录（十）
+postTitle: 正义之辩——随录（十）：生殖伦理
 categories: [Justice, Philosophy, Open Class Notes]
 description: 哈佛大学《正义之辩》课堂随录（十）
 keywords: Harvard, Justice, Philosophy, Political Philosophy, Open Class Notes

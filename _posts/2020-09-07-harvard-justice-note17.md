@@ -1,7 +1,7 @@
 ---
 layout: post
 title: harvard-justice-note17
-postTitle: 正义之辩——随录（十七）
+postTitle: 正义之辩——随录（十七）：机会公平与合法期望
 categories: [Justice, Philosophy, Open Class Notes]
 description: 哈佛大学《正义之辩》课堂随录（十七）
 keywords: Harvard, Justice, Philosophy, Political Philosophy, Open Class Notes

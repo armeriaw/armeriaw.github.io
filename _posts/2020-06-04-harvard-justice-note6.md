@@ -1,7 +1,7 @@
 ---
 layout: post
 title: harvard-justice-note6
-postTitle: 正义之辩——随录（六）
+postTitle: 正义之辩——随录（六）：自由意志论与政治
 categories: [Justice, Philosophy, Open Class Notes]
 description: 哈佛大学《正义之辩》课堂随录（六）
 keywords: Harvard, Justice, Philosophy, Political Philosophy, Open Class Notes

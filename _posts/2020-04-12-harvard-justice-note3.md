@@ -1,7 +1,7 @@
 ---
 layout: post
 title: harvard-justice-note3
-postTitle: 正义之辩——随录（三）
+postTitle: 正义之辩——随录（三）：辩功利主义
 categories: [Justice, Philosophy, Open Class Notes]
 description: 哈佛大学《正义之辩》课堂随录（三）
 keywords: Harvard, Justice, Philosophy, Political Philosophy, Open Class Notes

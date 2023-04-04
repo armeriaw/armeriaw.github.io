@@ -1,7 +1,7 @@
 ---
 layout: post
 title: harvard-justice-note8
-postTitle: 正义之辩——随录（八）
+postTitle: 正义之辩——随录（八）：共识与多数决
 categories: [Justice, Philosophy, Open Class Notes]
 description: 哈佛大学《正义之辩》课堂随录（八）
 keywords: Harvard, Justice, Philosophy, Political Philosophy, Open Class Notes

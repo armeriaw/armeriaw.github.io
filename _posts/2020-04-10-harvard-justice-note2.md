@@ -1,7 +1,7 @@
 ---
 layout: post
 title: harvard-justice-note2
-postTitle: 正义之辩——随录（二）
+postTitle: 正义之辩——随录（二）：功利主义
 categories: [Justice, Philosophy, Open Class Notes]
 description: 哈佛大学《正义之辩》课堂随录（二）
 keywords: Harvard, Justice, Philosophy, Political Philosophy, Open Class Notes
@@ -28,11 +28,11 @@ Sandel随即举了发生在英国的著名案件「女王起诉Dudley与Stevens�
 
 讨论的最后，Sandel还对认为无论如何都不能杀人的学生进行了一番拷问：如果Parker之死能换来三十、三百甚至三千人的获救，你还会坚持不杀人吗？我的内心是极度纠结的。从我排斥功利主义的角度上讲，谁都不能保证少年Parker最终会成长为一位伟大的人物，拯救无数人的生命和生活，谁都不能保证被拯救的三千人后来堕落为十恶不赦的罪犯，——决策者无法对未来的事做出准确的预测。但是，经验与常识告诉我，这种事情在未来真的发生的概率微乎其微，而现在，我却可以确确实实地用一个人的生命换取更多人的生命。在这种「交易」面前，在不牺牲Parker就会导致更多人死去的delimma面前，「不能谋杀」这一准则还有说服力吗？
 
-我还没有找到确切的答案，但我很愿意分享这样一句话，
+<!-- 我还没有找到确切的答案，但我很愿意分享这样一句话，
 
 >真理往往徘徊在两种学说之间。
 >
->*罗翔*
+>*罗翔* -->
 
 ## 深入本质
 

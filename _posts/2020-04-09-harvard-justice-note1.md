@@ -1,7 +1,7 @@
 ---
 layout: post
 title: harvard-justice-note1
-postTitle: 正义之辩——随录（一）
+postTitle: 正义之辩——随录（一）：导言
 categories: [Justice, Philosophy, Open Class Notes]
 description: 哈佛大学《正义之辩》课堂随录（一）
 keywords: Harvard, Justice, Philosophy, Political Philosophy, Open Class Notes

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: harvard-justice-note7
-postTitle: 正义之辩——随录（七）
+postTitle: 正义之辩——随录（七）：自然权利
 categories: [Justice, Philosophy, Open Class Notes]
 description: 哈佛大学《正义之辩》课堂随录（七）
 keywords: Harvard, Justice, Philosophy, Political Philosophy, Open Class Notes

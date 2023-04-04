@@ -1,7 +1,7 @@
 ---
 layout: post
 title: harvard-justice-note11
-postTitle: 正义之辩——随录（十一）
+postTitle: 正义之辩——随录（十一）：康德哲学的主要命题
 categories: [Justice, Philosophy, Open Class Notes]
 description: 哈佛大学《正义之辩》课堂随录（十一）
 keywords: Harvard, Justice, Philosophy, Political Philosophy, Open Class Notes
